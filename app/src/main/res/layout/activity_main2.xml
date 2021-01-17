@@ -98,7 +98,7 @@
         android:layout_height="wrap_content"
         style="@style/Header"
 
-        android:text="Weather For 5 Days"
+        android:text="Weather For 6 Days"
 
 />
     <ListView
